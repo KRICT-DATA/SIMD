@@ -13,4 +13,4 @@ To reproduce the extrapolation results of SIMD, we should prepare the following 
 
 # Notes
 - This repository provides a subset of the source Starry dataset due to the dataset license. Please visit [Starrydata](https://www.starrydata2.org) to download the full data of the source Starry dataset.
-- The full data of the ESTM dataset is provided in the dataset folder of this repository.
+- The full data of the ESTM dataset is provided in the ``dataset folder`` of this repository.

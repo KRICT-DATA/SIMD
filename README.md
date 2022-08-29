@@ -9,5 +9,5 @@ This repository provides an implemetaion of transfer learning based on System-Id
 
 # Dataset
 To reproduce the extrapolation results of SIMD, we should prepare the following two datasets of thermoelectric materials.
-- Starry dataset:
-- ESTM dataset:
+- [Starry dataset](https://www.starrydata2.org/): It is a large materials dataset containing thermoelectric materials. Since it was collected by text mining, data pre-processing should be conducted to remove invalid data.
+- ESTM dataset: 

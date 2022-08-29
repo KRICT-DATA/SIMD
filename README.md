@@ -4,4 +4,4 @@ Thermoelectric materials have received much attention for energy harvesting devi
 Reference: https://doi.org/10.xxxx/xxxxxxxxx
 
 # Run
-This repository provides an implemetaion of transfer learning based on System-Identified Material Representation (SIMD). You can train and evaluate a XGBoostRegressor with SIMD to predict ZTs of thermoelectric materials from unexplored material groups.
+This repository provides an implemetaion of transfer learning based on System-Identified Material Representation (SIMD). You can train and evaluate the ``XGBoost regressor`` with SIMD to predict ZTs of thermoelectric materials from unexplored material groups.
